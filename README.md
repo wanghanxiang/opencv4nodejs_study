@@ -1,0 +1,2 @@
+# opencv4nodejs_study
+记录使用opencv4nodejs进行图像识别
